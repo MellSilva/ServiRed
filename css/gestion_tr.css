@@ -1,0 +1,133 @@
+body{
+    background: linear-gradient(transparent,rgb(105, 165, 234));
+    margin-bottom: 1px;
+}
+
+h2{
+    align-content: center;
+    text-align: center;
+    font-size: 35px;
+}
+
+button{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border: none;
+    font-size: 17px;
+}
+
+select{
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 5px;
+    max-width: 180px;
+    padding: 2px;
+}
+
+img{
+    box-shadow: 0 0 10px 1px rgb(87, 158, 239);
+    align-content: center;
+    text-align: center;
+}
+.Fondo{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.Fondo_centro{
+    max-width: 70%;
+    height: auto;
+}
+.Superior{
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    padding: 5px;
+    margin-bottom: 1%;
+}
+
+.Botones_gestion{
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    padding: 2%;
+    margin-bottom: 10px;
+}
+
+.Superior_servicios_trabajdor{
+    text-align: center;
+}
+
+.Inferior_servicios_trabajador{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.Visual_gestion_rabajador_sr{
+    background-color: transparent;
+    border-radius: 30px;
+}
+
+.Conexion_inalambrica{
+    font-size: 18px;
+    align-content: right;
+    text-align: right;
+    margin-left: 15%;
+    padding-bottom: 1%;
+    line-height: 1.7;
+    margin-bottom: 4%;
+}
+.Conexion_conmutada {
+    font-size: 18px;
+    align-content: left;
+    margin-right: 10%;
+    text-align: right;
+    padding-bottom: 1%;
+    line-height: 1.7;
+    margin-right: 15%;
+    margin-bottom: 4%;
+}
+.Menu{
+    align-content: left;
+    text-align: left;
+}
+
+.Buscar{
+    align-content: center;
+    text-align: center;
+    font-size: 20px;
+    padding:1%;
+    height: 30px;
+    margin-bottom: 2%;
+}
+
+.Barra {
+    text-align: center;
+    border-radius: 20px;
+    width: 40%;
+    height: 30px;
+}
+
+.Entrar_trabajador ,.Planilla_trabajador{
+    align-content: center;
+    text-align: center;
+    font-size: 18px;
+    padding:5px;
+    max-height: 20px;
+    max-width: 330px;
+    /* margin-bottom: 2%;
+    margin-top: 3%; */
+    border-radius: 20px;
+}
+
+.Datos_trabajador , .Planilla_datos_t{
+    align-content: center;
+    text-align: center;
+}
+.Mostrar_lista_trabajadores{
+    box-shadow: 0 0 10px 1px rgb(87, 158, 239);
+}

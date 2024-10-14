@@ -1,0 +1,25 @@
+p {
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.5;
+    
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+.imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.centro_imagen {
+    max-width: 70%;
+    height: auto;
+}
+
+body{
+    box-sizing: border-box;
+}

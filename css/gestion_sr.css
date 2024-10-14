@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(transparent,rgb(105, 165, 234));
+    margin-bottom: 1px;
+}
+
+h2{
+    align-content: center;
+    text-align: center;
+    font-size: 35px;
+}

@@ -1,0 +1,58 @@
+h2 {
+   text-align: center;
+   padding: 10px;
+}
+.imagen_acceder, .imagen_registrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+
+}
+
+.entrada_datos{
+    font-size: 20px; 
+    align-content: center;
+    text-align: center;
+    padding: 35px;
+    margin: 5px;
+}
+.inferior_registrar {
+    align-content: center;
+    text-align: center;
+    padding: 35px;
+
+}
+p{
+    text-align: center;
+}
+
+input{
+    
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    border: none;
+    border-radius: 25px;
+    padding: 5px 20px;
+    background-color: transparent;
+    align-self: center;
+    color: blue;
+    font-size: 20px
+    
+}
+
+body{
+    background: linear-gradient(transparent,rgb(105, 165, 234));
+}
+div{
+    padding: 15px;
+    margin: 7px;
+}
+img{
+    box-shadow: 0 0 10px 1px rgb(87, 158, 239);
+}
